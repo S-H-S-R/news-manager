@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\worked news mng\searchbar\obj\Debug\searchbar.UserControl1.resources
+C:\Users\lenovo\Desktop\worked news mng\searchbar\obj\Debug\searchbar.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\worked news mng\searchbar\bin\Debug\searchbar.dll
+C:\Users\lenovo\Desktop\worked news mng\searchbar\bin\Debug\searchbar.pdb
+C:\Users\lenovo\Desktop\worked news mng\searchbar\obj\Debug\searchbar.dll
+C:\Users\lenovo\Desktop\worked news mng\searchbar\obj\Debug\searchbar.pdb
+C:\Users\lenovo\Desktop\worked news mng\searchbar\obj\Debug\searchbar.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\worked news mng\searchbar\bin\Debug\AltoControls.dll
+C:\Users\lenovo\Desktop\worked news mng\searchbar\bin\Debug\AltoControls.pdb
+C:\Users\lenovo\Desktop\worked news mng\searchbar\bin\Debug\MetroSet UI.dll

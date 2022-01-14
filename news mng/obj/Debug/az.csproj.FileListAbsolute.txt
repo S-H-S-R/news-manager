@@ -1,0 +1,89 @@
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\bin\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\bin\Debug\az.application
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\bin\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\bin\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\az.application
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision\az\obj\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\bin\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\bin\Debug\az.application
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\bin\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\bin\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers\az\obj\Debug\az.application
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\bin\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\bin\Debug\az.application
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\bin\Debug\az.exe
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\bin\Debug\az.pdb
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.exe.manifest
+C:\Users\hamid\Desktop\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.application
+D:\deletable HDD backups\Ccandidates to resume 1399-4\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.exe
+D:\deletable HDD backups\Ccandidates to resume 1399-4\az paygah pro final\info source code\revision2 only phone numbers+ read only ok\az\obj\Debug\az.pdb
+C:\Users\lenovo\Desktop\repair system\obj\Debug\az.exe
+C:\Users\lenovo\Desktop\repair system\obj\Debug\az.pdb
+C:\Users\lenovo\Desktop\repair system\obj\Debug\az.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\repair system\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\repair system\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\repair system\obj\Debug\WindowsFormsApplication1.reportform.resources
+C:\Users\lenovo\Desktop\repair system\bin\Debug\az.exe
+C:\Users\lenovo\Desktop\repair system\bin\Debug\az.pdb
+C:\Users\lenovo\Desktop\repair system\obj\Debug\WindowsFormsApplication1.addform.resources
+C:\Users\lenovo\Desktop\repair system\obj\Debug\WindowsFormsApplication1.endrepairforn.resources
+C:\Users\lenovo\Desktop\news mng\obj\Debug\az.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\news mng\obj\Debug\WindowsFormsApplication1.addform.resources
+C:\Users\lenovo\Desktop\news mng\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\news mng\obj\Debug\WindowsFormsApplication1.reportform.resources
+C:\Users\lenovo\Desktop\news mng\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\news mng\obj\Debug\az.exe
+C:\Users\lenovo\Desktop\news mng\obj\Debug\az.pdb
+C:\Users\lenovo\Desktop\news mng\bin\Debug\az.exe
+C:\Users\lenovo\Desktop\news mng\bin\Debug\az.pdb
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\az.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\WindowsFormsApplication1.addform.resources
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\WindowsFormsApplication1.reportform.resources
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\az.exe
+C:\Users\lenovo\Desktop\news mng\news mng\obj\Debug\az.pdb
+C:\Users\lenovo\Desktop\news mng\news mng\bin\Debug\az.exe.config
+C:\Users\lenovo\Desktop\news mng\news mng\bin\Debug\az.exe
+C:\Users\lenovo\Desktop\news mng\news mng\bin\Debug\az.pdb
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\az.exe.config
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\az.exe
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\az.pdb
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\az.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\az.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\az.exe
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\az.pdb
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\searchbar.dll
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\searchbar.pdb
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\WindowsFormsApplication1.allcharts.resources
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\AltoControls.dll
+C:\Users\lenovo\Desktop\worked news mng\news mng\bin\Debug\AltoControls.pdb
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\WindowsFormsApplication1.add_update_form.resources
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\WindowsFormsApplication1.mainform.resources
+C:\Users\lenovo\Desktop\worked news mng\news mng\obj\Debug\WindowsFormsApplication1.chart_detail.resources
